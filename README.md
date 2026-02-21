@@ -1,7 +1,5 @@
 # ELVARA - Modern E-commerce Clothing Website
 
-![ELVARA Banner]((https://i.pinimg.com/1200x/54/9a/54/549a54ab29422b393dcf9e41274c7c64.jpg))
-
 ## 📖 Overview
 
 ELVARA is a modern, responsive e-commerce website designed for a contemporary clothing brand. Built with pure HTML, CSS, and JavaScript, this project demonstrates a fully functional online store with product listings, shopping cart functionality, and a seamless checkout process.
