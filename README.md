@@ -1,6 +1,6 @@
 # ELVARA - Modern E-commerce Clothing Website
 
-![ELVARA Banner]([https://images.unsplash.com/photo-1469334031218-e382a71b716b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80](https://i.pinimg.com/1200x/54/9a/54/549a54ab29422b393dcf9e41274c7c64.jpg))
+![ELVARA Banner]((https://i.pinimg.com/1200x/54/9a/54/549a54ab29422b393dcf9e41274c7c64.jpg))
 
 ## 📖 Overview
 
