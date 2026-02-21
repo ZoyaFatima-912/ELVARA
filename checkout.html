@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout - ELVARA</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo">ELVARA</a>
+        <div class="hamburger" onclick="toggleMenu()">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="products.html">Shop</a>
+            <a href="index.html#featured">Featured</a>
+            <a href="index.html#new">New Arrivals</a>
+            <div class="cart-icon" onclick="window.location.href='cart.html'">
+                <span>🛒</span>
+                <span class="cart-count" id="cartCount">0</span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="checkout-page" id="checkout-page">
+        <!-- Checkout content will be loaded dynamically -->
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>CHIC·MODE</h3>
+                <p>Redefining fashion with sustainable and modern designs for the conscious consumer.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <a href="about.html">About Us</a>
+                <a href="contact.html">Contact</a>
+                <a href="size-guide.html">Size Guide</a>
+                <a href="shipping.html">Shipping Info</a>
+            </div>
+            <div class="footer-section">
+                <h3>Follow Us</h3>
+                <a href="#">Instagram</a>
+                <a href="#">Facebook</a>
+                <a href="#">Pinterest</a>
+                <a href="#">Twitter</a>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2024 ELVARA. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="./js/data.js"></script>
+    <script src="./js/checkout.js"></script>
+</body>
+</html>
